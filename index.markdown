@@ -11,3 +11,6 @@ layout: home
 {:refdef: style="text-align: center;"}
 <h1>Linux Mobile World</h1>
 {: refdef}
+{:refdef: style="text-align: center;"}
+<a href="https://t.me/linuxmobile_world">Telegram chat</a>
+{: refdef}
