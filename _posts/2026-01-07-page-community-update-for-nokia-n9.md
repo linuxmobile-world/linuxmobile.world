@@ -12,7 +12,7 @@ Community update includes following fixes and QOL features:
 - TLS Fix
 - FrogFind search engine for browser
 - Fix for connectivity test
-- Hacker package manager:
+- Hacked package manager:
     - No notice when installing 3rdparty packages
     - All packages are installed with AEGIS_FIXED_ORIGIN=com.nokia.maemo
 
@@ -23,7 +23,7 @@ To install this update you need the following:
 - [WunderWungiel repository](http://apt.linuxmobile.world/MeeGo/apt-repo/repo-installer_0.0.6_armel.deb)
 - [Octo repository](http://apt.linuxmobile.world/MeeGo/octo/repoinstaller.deb)
 
-Currently the following region codes are supported: 009, 001. You can help support your model - reach out to [t.me/mrvn4](https://t.me/mrvn4). 
+Currently the following region codes are supported: 009, 001. You can help support your model - reach out to [t.me/mrvn4](https://t.me/mrvn4). You can also suggest features for community update.
 
 # Installation
 
