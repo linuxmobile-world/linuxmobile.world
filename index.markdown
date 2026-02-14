@@ -13,4 +13,5 @@ layout: home
 {: refdef}
 {:refdef: style="text-align: center;"}
 <a href="https://t.me/linuxmobile_world">Telegram chat</a>
+<a href="http://kiwix.linuxmobile.world/">Kiwix with maemo.org resources</a>
 {: refdef}
